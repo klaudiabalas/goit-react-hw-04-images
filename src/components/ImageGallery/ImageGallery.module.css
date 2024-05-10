@@ -1,0 +1,11 @@
+.imageGallery_list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
